@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "ibm": "node ibm.js",
+    "google": "node google.js"
   },
   "dependencies": {
+    "readline-sync": "^1.4.9",
     "watson-developer-cloud": "^3.5.0"
   }
 }
