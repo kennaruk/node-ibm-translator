@@ -14,6 +14,9 @@ For demo translate by google
 npm run google
 ```
 IBM Watson
+### Functions
+* Translate
+* Identify Language (result with precision)
 ---
 **Identifiable (with precision)**:
 ```

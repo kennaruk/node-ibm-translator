@@ -4,6 +4,7 @@
     "google": "node google.js"
   },
   "dependencies": {
+    "@google-cloud/translate": "^1.1.0",
     "readline-sync": "^1.4.9",
     "watson-developer-cloud": "^3.5.0"
   }
